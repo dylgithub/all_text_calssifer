@@ -1,0 +1,2 @@
+# all_text_calssifer
+包括CNN,RNN以及attention在内的对文本分类
